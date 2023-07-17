@@ -1,0 +1,18 @@
+package Array;
+
+public class Duplicate {
+    public static void main(String[] args) {
+        int[] arr = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 4, 5, 6};
+        System.out.println("duplicate element");
+//        for (int i = 0; i < array.length; i++) {
+//            for (int j = i + 1; j < args.length; j++) {
+//                if (array[i] == array[j])
+//                    System.out.println(array[j]);
+        for(int i = 0; i < arr.length; i++) {
+            for(int j = i + 1; j < arr.length; j++) {
+                if(arr[i] == arr[j])
+                    System.out.println(arr[j]);
+            }
+        }
+    }
+}

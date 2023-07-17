@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basicjava/Basicjava.iml" filepath="$PROJECT_DIR$/Basicjava/Basicjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritancetype/InheritanceTypeAll/InheritanceTypeAll.iml" filepath="$PROJECT_DIR$/inheritancetype/InheritanceTypeAll/InheritanceTypeAll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstraction/abstraction.iml" filepath="$PROJECT_DIR$/abstraction/abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akash.iml" filepath="$PROJECT_DIR$/akash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encap/encap.iml" filepath="$PROJECT_DIR$/encap/encap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritancetype/hierarchical/hierarchical.iml" filepath="$PROJECT_DIR$/inheritancetype/hierarchical/hierarchical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritancetype/inheritancetype.iml" filepath="$PROJECT_DIR$/inheritancetype/inheritancetype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/march21/march21.iml" filepath="$PROJECT_DIR$/march21/march21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/march21/march23/march23.iml" filepath="$PROJECT_DIR$/march21/march23/march23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/march25/march25.iml" filepath="$PROJECT_DIR$/march25/march25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/upcasting-downcasting/upcasting-downcasting.iml" filepath="$PROJECT_DIR$/upcasting-downcasting/upcasting-downcasting.iml" />
+    </modules>
+  </component>
+</project>
